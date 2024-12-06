@@ -9,13 +9,21 @@ This repository contains data and analysis scripts for studying Walter White's d
 ## Repository Structure
 
 Breaking_Bad_Evil_Analysis/ 
+
 ├── data/ 
+
 │   ├── dialogues.csv # Processed dialogues from Breaking Bad 
+
 │   ├── hubris_evil_data.csv # Results of the hubris and evil analysis  
+
 │   ├── hubris_lexicon.csv # Dictionary of Hubris terms and their level (On Progress)
+
 │   ├── evil_lexicon.csv # Dictionary of evil terms and their level (On Progress)
+
 ├── notebooks/ 
+
 │   ├── analysis.ipynb # Jupyter Notebook with project analysis 
+
 ├── README.md # Project description and instructions
 
 ## Data Description
@@ -108,13 +116,21 @@ Este repositorio contiene los datos y scripts de análisis para estudiar la tran
 
 ## Estructura del Repositorio
 Breaking_Bad_Evil_Analysis/
+
 ├── data/
+
 │   ├── dialogues.csv # Diálogos procesados de Breaking Bad
+
 │   ├── hubris_analysis.csv # Resultados del análisis de hubris y maldad 
+
 │   ├── hubris_lexicon.csv # Diccionario de términos relacionados con Hubris
+
 │   ├── evil_lexicon.csv # Diccionario de términos relacionados con la maldad y su intensidad
+
 ├── notebooks/
+
 │   ├── analysis.ipynb # Notebook de análisis del proyecto
+
 ├── README.md # Descripción del proyecto e instrucciones
 
 ## Descripción de los Datos
