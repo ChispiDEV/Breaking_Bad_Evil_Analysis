@@ -10,19 +10,23 @@ This repository contains data and analysis scripts for studying Walter White's d
 
 Breaking_Bad_Evil_Analysis/ 
 
-├── data/ 
+├──  Breaking_Bad_Evil_Analysis_1.0-Capstone
 
-│   ├── dialogues.csv # Processed dialogues from Breaking Bad 
+│   ├── data/ 
 
-│   ├── hubris_evil_data.csv # Results of the hubris and evil analysis  
+│   │   ├── dialogues.csv # Processed dialogues from Breaking Bad 
 
-│   ├── hubris_lexicon.csv # Dictionary of Hubris terms and their level (On Progress)
+│   │   ├── hubris_evil_data.csv # Results of the hubris and evil analysis  
 
-│   ├── evil_lexicon.csv # Dictionary of evil terms and their level (On Progress)
+│   │   ├── hubris_lexicon.csv # Dictionary of Hubris terms and their level (On Progress)
 
-├── notebooks/ 
+│   │   ├── evil_lexicon.csv # Dictionary of evil terms and their level (On Progress)
 
-│   ├── analysis.ipynb # Jupyter Notebook with project analysis 
+│   ├── notebooks/ 
+
+│   │   ├── analysis.ipynb # Jupyter Notebook with project analysis 
+
+├──  Breaking_Bad_Evil_Analysis_2.0
 
 ├── README.md # Project description and instructions
 
@@ -62,7 +66,7 @@ Breaking_Bad_Evil_Analysis/
 ### `notebooks/analysis.ipynb`
 - **Description:** Contains code and visualizations for:
   - Tracking Walter White's transformation.
-  - Network analysis of interpersonal relationships (On Process).
+  - Network analysis of interpersonal relationships (On Process//Version 2.0).
   - Evolution of variables such as Hubris and Evil.
 
 ## Tools Used
@@ -117,19 +121,23 @@ Este repositorio contiene los datos y scripts de análisis para estudiar la tran
 ## Estructura del Repositorio
 Breaking_Bad_Evil_Analysis/
 
-├── data/
+├──  Breaking_Bad_Evil_Analysis_1.0-Capstone
 
-│   ├── dialogues.csv # Diálogos procesados de Breaking Bad
+│   ├── data/
 
-│   ├── hubris_analysis.csv # Resultados del análisis de hubris y maldad 
+│   │   ├── dialogues.csv # Diálogos procesados de Breaking Bad
 
-│   ├── hubris_lexicon.csv # Diccionario de términos relacionados con Hubris
+│   │   ├── hubris_analysis.csv # Resultados del análisis de hubris y maldad 
 
-│   ├── evil_lexicon.csv # Diccionario de términos relacionados con la maldad y su intensidad
+│   │   ├── hubris_lexicon.csv # Diccionario de términos relacionados con Hubris
 
-├── notebooks/
+│   │   ├── evil_lexicon.csv # Diccionario de términos relacionados con la maldad y su intensidad
 
-│   ├── analysis.ipynb # Notebook de análisis del proyecto
+│   ├── notebooks/
+
+│   │   ├── analysis.ipynb # Notebook de análisis del proyecto
+
+├──  Breaking_Bad_Evil_Analysis_2.0
 
 ├── README.md # Descripción del proyecto e instrucciones
 
