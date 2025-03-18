@@ -1,3 +1,5 @@
+# English Version 
+
 # Breaking Bad Evil Analysis
 
 This repository contains data and analysis scripts for studying Walter White's descent into evil in *Breaking Bad*, focusing on Hubris Syndrome and interpersonal dynamics (On Progress). Techniques such as Natural Language Processing (NLP), graph analysis, and network analysis were used to develop specific dictionaries.
@@ -110,6 +112,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ---
+# Versión en Español  
 
 # Análisis de la maldad en Breaking Bad
 Este repositorio contiene los datos y scripts de análisis para estudiar la transformación de Walter White en Breaking Bad, enfocándose en el Síndrome de Hubris y las dinámicas interpersonales. Para ello se han utilizado técnicas de Procesamiento de Lenguaje Natural (PLN), grafos y análisis de redes para desarrollar diccionarios específicos.
