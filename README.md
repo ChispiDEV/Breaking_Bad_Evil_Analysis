@@ -114,7 +114,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-**Note:** This repository is a work in progress. Data and scripts will be updated as the project evolves.
+## **Note:** 
+This repository is a work in progress. Data and scripts will be updated as the project evolves.
 
 ---
 
@@ -228,7 +229,8 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 ---
 
-**Nota:** Este repositorio es un trabajo en curso. Los datos y las secuencias de comandos se actualizarán a medida que evolucione el proyecto.
+## **Nota:** 
+Este repositorio es un trabajo en curso. Los datos y las secuencias de comandos se actualizarán a medida que evolucione el proyecto.
 
 ---
 
