@@ -1,8 +1,8 @@
-# 🔬 Welcome to *Breaking Bad Evil Analysis*' Project! 🎭 // 🔬 ¡¡Bienvenido al proyecto de *Análisis de la Maldad en Breaking Bad*!!  🎭
+# 🔬 Welcome to _Breaking Bad Evil Analysis'_ Project! 🎭 // 🔬 ¡¡Bienvenido al proyecto de _Análisis de la Maldad en Breaking Bad_!!  🎭
 📌 *Natural Language Processing (NLP) | Graph Analysis | Network Analysis*  
 
 ---  
-## 🌍 English Version  
+# 🌍 English Version  
 This repository contains **data and analysis scripts** for studying **Walter White's descent into evil** in *Breaking Bad*, focusing on **Hubris Syndrome** and interpersonal dynamics *(On Progress 🚧)*.  
 Specifically generated dictionaries, **Natural Language Processing (NLP)**, **Graph Analysis**, and **Network Analysis** were used.  
 
