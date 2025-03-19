@@ -79,6 +79,7 @@ Specifically generated dictionaries, **Natural Language Processing (NLP)**, **Gr
    cd Breaking_Bad_Evil_Analysis
    ```  
 2️⃣ **Explore the Data:** 🔍 Review the CSV files in the `data/` folder.  
+
 3️⃣ **Run the Analysis:** 🧪 Open `notebooks/analysis.ipynb` in Jupyter Notebook:  
    ```bash
    jupyter notebook notebooks/analysis.ipynb
@@ -165,6 +166,7 @@ Para ello se utilizaron diccionarios generados específicamente, técnicas de **
    cd Breaking_Bad_Evil_Analysis
    ```  
 2️⃣ **Explora los Datos:** 🔍 Revisa los archivos CSV en `data/`.  
+
 3️⃣ **Ejecuta el Análisis:** 🧪 Abre `notebooks/analysis.ipynb` en Jupyter Notebook:  
    ```bash
    jupyter notebook notebooks/analysis.ipynb
