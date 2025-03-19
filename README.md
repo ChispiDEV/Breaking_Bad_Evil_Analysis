@@ -1,13 +1,18 @@
+# Welcome to Breaking Bad Evil Analysis' project!! // ¡¡Bienvenido al proyecto de Análisis de la Maldad en Breaking Bad!!
+_Natural Language Processing (NLP) | Graph analysis | Network analysis_
+
+---
+
+---
 # English Version 
-
-# Breaking Bad Evil Analysis
-
 This repository contains data and analysis scripts for studying Walter White's descent into evil in *Breaking Bad*, focusing on Hubris Syndrome and interpersonal dynamics (On Progress). Techniques such as Natural Language Processing (NLP), graph analysis, and network analysis were used to develop specific dictionaries.
 
+---
 ## Objectives
 - Study the evolution of Walter White's character in relation to Hubris Syndrome.
 - Visualize interpersonal relationships and their impact on the narrative (In Progress).
   
+---
 ## Repository Structure
 
 Breaking_Bad_Evil_Analysis/ 
@@ -32,8 +37,8 @@ Breaking_Bad_Evil_Analysis/
 
 ├── README.md # Project description and instructions
 
+---
 ## Data Description
-
 ### `data/dialogues.csv`
 - **Description:** Contains the processed dialogues extracted from the series.
 - **Columns:**
@@ -63,21 +68,22 @@ Breaking_Bad_Evil_Analysis/
   - `Keyword`: Key term.
   - `Category`: Level of evil associated with the key term.
 
+---
 ## Analysis Notebooks
-
 ### `notebooks/analysis.ipynb`
 - **Description:** Contains code and visualizations for:
   - Tracking Walter White's transformation.
   - Network analysis of interpersonal relationships (On Process//Version 2.0).
   - Evolution of variables such as Hubris and Evil.
 
+---
 ## Tools Used
 - **Python:** Pandas, NetworkX, Matplotlib
 - **Lexicons:** Custom emotional and categorical lexicons
 - **Visualization:** Dynamic graphs to track episode-by-episode evolution
 
+---
 ## Usage Instructions
-
 1. **Setup:**
    - Clone the repository:
      ```bash
@@ -97,12 +103,13 @@ Breaking_Bad_Evil_Analysis/
 4. **Contribute:**
    - Feel free to contribute by submitting pull requests for new analyses or improvements.
 
+---
 ## Results
 - Identification of patterns in the character's behavior.
 - Visualizations illustrating Walter White's transformation.
 
+---
 ## License
-
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
@@ -112,15 +119,15 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ---
-# Versión en Español  
-
-# Análisis de la maldad en Breaking Bad
+# Versión en Español 
 Este repositorio contiene los datos y scripts de análisis para estudiar la transformación de Walter White en Breaking Bad, enfocándose en el Síndrome de Hubris y las dinámicas interpersonales. Para ello se han utilizado técnicas de Procesamiento de Lenguaje Natural (PLN), grafos y análisis de redes para desarrollar diccionarios específicos.
 
+---
 ## Objetivos
 - Estudiar la evolución del carácter de Walter White en relación con el Síndrome de Hubris.
 - Visualizar las relaciones interpersonales y su impacto en la narrativa (En Proceso).
 
+---
 ## Estructura del Repositorio
 Breaking_Bad_Evil_Analysis/
 
@@ -144,6 +151,7 @@ Breaking_Bad_Evil_Analysis/
 
 ├── README.md # Descripción del proyecto e instrucciones
 
+---
 ## Descripción de los Datos
 ### `data/dialogues.csv`
 - **Descripción:** Contiene los diálogos procesados extraídos de la serie.
@@ -174,21 +182,22 @@ Breaking_Bad_Evil_Analysis/
   - `Keyword`: Palabra clave.
   - `Category`: Nivel de maldad al que se asocia dicha palabra clave.
 
+---
 ## Notebooks de Análisis
-
 ### `notebooks/analysis.ipynb`
 - **Descripción:** Contiene código y visualizaciones para:
   - Rastrear la transformación de Walter White.
   - Análisis de redes de relaciones interpersonales.
   - Evolución de variables como Hubris y Maldad.
 
+---
 ## Herramientas Utilizadas
 - **Python:** Pandas, NetworkX, Matplotlib
 - **Lexicones:** Emociones y categorías personalizadas
 - **Visualización:** Gráficos dinámicos para la evolución por episodio.
 
+---
 ## Instrucciones de Uso
-
 1. **Preparación:**
    - Clona el repositorio:
      ```bash
@@ -208,13 +217,18 @@ Breaking_Bad_Evil_Analysis/
 4. **Contribuye:**
    - Contribuye enviando pull requests para nuevos análisis o mejoras.
 
+---
 ## Resultados
 - Identificación de patrones en el comportamiento del personaje.
 - Visualizaciones que ilustran la transformación de Walter White.
 
+---
 ## Licencia
-
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+---
+
+**Nota:** Este repositorio es un trabajo en curso. Los datos y las secuencias de comandos se actualizarán a medida que evolucione el proyecto.
 
 ---
 
